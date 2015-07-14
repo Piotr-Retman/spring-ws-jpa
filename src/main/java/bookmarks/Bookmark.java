@@ -9,7 +9,7 @@ import javax.persistence.ManyToOne;
 
 /**
  * Created by Retman on 2015-07-01.
- *Another file
+ *Another file such a great file
  */
 @Entity
 public class Bookmark {
