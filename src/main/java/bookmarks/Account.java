@@ -36,6 +36,14 @@ public class Account {
         return username;
     }
 
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
     @JsonIgnore
     public String password;
     public String username;
